@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1064041114640",
+    "project_id": "recommender-app-dev",
+    "storage_bucket": "recommender-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064041114640:android:44289493984431ab48ae95",
+        "android_client_info": {
+          "package_name": "com.example.sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064041114640-5eub4m24et8jcolo2jgdd23pvpk5dc2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4EmRznmw__NQPYgS9r9V3HfBJmaMNTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064041114640-5eub4m24et8jcolo2jgdd23pvpk5dc2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064041114640-dnln2n1a3ek5tpsrj57pi0iel0670dp0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
